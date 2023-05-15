@@ -1,0 +1,98 @@
+
+/* --- BACKGROUND  --------------------- */
+::-moz-selection {
+    background-color: #904eab;
+    color: #fff;
+}
+::-webkit-selection {
+    background-color: #904eab;
+    color: #fff;
+}
+::-o-selection {
+    background-color: #904eab;
+    color: #fff;
+}
+::-khtml-selection {
+    background-color: #904eab;
+    color: #fff;
+}
+::-ms-selection {
+    background-color: #904eab;
+    color: #fff;
+}
+::selection {
+    background-color: #904eab;
+    color: #fff;
+}
+
+/* placeholder */
+::-webkit-input-placeholder {
+        color: #904eab !important;
+}
+:-moz-placeholder {
+        /* Firefox 18- */
+        color: #904eab !important;
+}
+::-moz-placeholder {
+        /* Firefox 19+ */
+        color: #904eab !important;
+}
+:-ms-input-placeholder {
+        color: #904eab !important;
+}
+
+/* ALL SELECTOR BACKGROUND */
+.carousel-caption a, .navbar-default .navbar-toggle .icon-bar, .navbar-toggle .icon-bar:before, .navbar-toggle .icon-bar:after, .work-content, .team-area, .testimonial-area .owl-controls .owl-page.active,
+.skillst1 .skillbar:before, .panel-title > a, .table-header, .table-footer > a, .follow-us-section, .post-author, .news-post-content  > a, .social-follow > ul > li > a:hover > i, .contact-area .contact-submit, .top-btn a,
+.work-content > .work-caption > .work-caption-details > p > a:hover, .team-social > li > a:hover i, .testimonial-navigation a:hover i, .panel-title > a.collapsed, .client-item > a:before, .client-item > a:hover:before
+{
+        background: #904eab !important
+}
+
+
+/* ALL SELECTOR COLOR */
+.navbar-brand > span, .fixed .navbar-brand > span, .navbar-right > li.active > a, .navbar-right > li.active > a:before, .section-title > h2 > span, .about-item .title-area > i, .about-item > a:hover, .about-item a:hover i, .about-item:hover a i, .about-item:hover a,
+.service-item a:hover i, .service-item:hover a i, .service-item:hover h2, .button-group > li.active, .team-social > li > a i, .team-social > li > a:hover i, .we-work-item:hover i, .we-work-item:hover h3,
+.we-work-item i, .counter-area i, .social-follow > ul > li > a > i, .news-post-content > p > span, .news-post-content  > a:hover, .load-more-btn, .footer-infomation > h1 > span, .footer-section p a, .contact-area  .contact-submit:hover,
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
+{
+        color:#904eab ;
+}
+
+
+
+ /* BORDER 1PX SOLID  */
+.testimonial-area .owl-controls .owl-page, .testimonial-area .owl-controls .owl-page.active, .news-post-content  > a:hover, .load-more-btn, .news-post-content  > a:hover, .load-more-btn,
+.social-follow > ul > li > a > i,  .news-post-content  > a, .load-more-btn, .work-content > .work-caption > .work-caption-details > p > a, .carousel-caption a, .carousel-caption a:hover,
+.contact-area   .contact-submit
+{
+ border: 1px solid #904eab;
+}
+.contact-area input:hover, .contact-area input:focus, .contact-area #message:focus, .contact-area #message:hover, .contact-area #message:focus{
+        border-bottom: 1px solid  #904eab !important
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary,.btn-primary
+{
+        border-color: #904eab
+}
+
+/* BORDER 5PX SOLID */
+.item.testimanial-itmes > a{
+        border: 5px solid #904eab
+}
+
+
+
+/******************
+ * SWITCHER STYLE *
+ ******************/
+.switcherContent{
+        border-bottom: 1px solid #904eab
+}
+.switcher .switcherContents header,.switcher .switcherShowHide,.tempLayout ul .active-layout,.tempLayout ul li:hover{
+        background: #904eab;
+}
+.tempLayout ul li{
+        border: 1px solid  #904eab
+}
